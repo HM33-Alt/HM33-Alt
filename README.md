@@ -15,4 +15,4 @@
 
 <h3 align="left">Competitions:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,aws,cpp,clion,css,discord,github,gmail,gradle,html,idea,java,js,linux,linkedin,matlab,py,pycharm,pytorch,r,redhat,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wasm,aws,cpp,clion,css,discord,github,gradle,html,idea,java,js,linux,linkedin,matlab,py,pycharm,pytorch,r,redhat,&perline=10)](https://skillicons.dev)
