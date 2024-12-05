@@ -34,7 +34,3 @@
 <h3 align="left">Data Analytics:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=r&theme=light)](https://skillicons.dev)
-
-<h3 align="left">Cloud:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
