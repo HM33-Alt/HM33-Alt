@@ -8,7 +8,7 @@
 
 <hr>
 
-### 📓 Academic Coursework Taken </h3>
+### 📓 Relevant Academic Coursework Taken </h3>
 
 #### Programming and Software Engineering
 - **CS2030S**: Programming Methodology II
