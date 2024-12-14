@@ -8,6 +8,10 @@
 
 <hr>
 
+### ⚒️ Projects </h3>
+
+<hr>
+
 ### 📓 Relevant Academic Coursework </h3>
 
 #### Programming and Software Engineering
