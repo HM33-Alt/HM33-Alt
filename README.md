@@ -1,4 +1,6 @@
-<h3 align="center">HARIPRASATH S/O R MOHAN - From Singapore 🇸🇬</h3>
+<h2 align="center">HARIPRASATH S/O R MOHAN 🇸🇬</h2>
+
+<hr>
 
 ### [LinkedIn Profile <- CLICK HERE](https://www.linkedin.com/in/hariprasathmohan)
 ### [DevPost <- CLICK HERE](https://www.linkedin.com/in/hariprasathmohan)
