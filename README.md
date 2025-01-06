@@ -1,18 +1,35 @@
 <h2 align="center">HARIPRASATH S/O R MOHAN 🇸🇬</h2>
 
+Welcome to my Github!
+Feel free to browse through or jump ahead to a section!
+
+### 💻 Socials
 <hr>
 
 ### [LinkedIn Profile <- CLICK HERE](https://www.linkedin.com/in/hariprasathmohan)
 ### [DevPost <- CLICK HERE](https://www.linkedin.com/in/hariprasathmohan)
 ### [Portfolio <- CLICK HERE](https://www.linkedin.com/in/hariprasathmohan)
 
+### 🏢 Internship Experience
 <hr>
 
-### ⚒️ Projects </h3>
+#### Mastercard Singapore - Product Management, Transfer Solutions (May 2024 - Aug 2024) 🇸🇬
+- Supported the team in conducting data analysis of bill payment markets in Asia-Pacific to gain customer insights.
+- Worked on a wireless security solution concept to improve the security of targeted bill payment markets.
 
+#### PwC Singapore, Global Mobility Services - Digital Team (Nov 2021 - Jul 2022) 🇸🇬
+- Automated manual processes and provided data analysis for the Immigration and Tax departments during the transition to a new independent entity.
+- Built and improved UiPath bots for the immigration department to extract data, prepare reports, and periodically update employment pass application caseworks for more than 10 different companies.
+- Developed and maintained UiPath bots for the Tax department to process, rectify, and file tax returns during the annual tax filing season.
+- Updated Alteryx workflows to update and maintain internal dashboards that track key performance indicators (KPI).
+
+#### Thermo Fisher Scientific Singapore - Cyber Security Analyst (Sep 2018 - May 2019) 🇸🇬
+- Monitored security logs and conducted threat identification for the global workforce using incident response tools (Fidelis, CrowdStrike) and a data analysis platform (Splunk).
+- Communicated with end-users and IT service desk teams across different departments and regions to resolve security incidents.
+- Proposed and implemented process workflow improvements.
+
+### 📓 Relevant Academic Coursework
 <hr>
-
-### 📓 Relevant Academic Coursework </h3>
 
 #### Programming and Software Engineering
 - **CS2030S**: Programming Methodology II
@@ -38,19 +55,19 @@
 #### Data Science and Computational Biology
 - **DSA1101**: Introduction to Data Science
 - **CS2220**: Introduction to Computational Biology
+
+### 💻 Certifications & Courses
 <hr>
 
-<h3 align="left"> 💻 Certifications & Courses </h3>
 <p>
-  <a href="./datacamp certificates/certificate (2).pdf" style="color: #00FF00;">datacamp - Introduction To R</a><br>
-  <a href="./datacamp certificates/certificate (1).pdf" style="color: #00FF00;">datacamp - Exploratory Data Analysis in R</a><br>
-  <a href="./datacamp certificates/certificate.pdf" style="color: #00FF00;">datacamp - Introduction To Statistics in R</a><br>
-  - CS50:
+  <a href="./datacamp certificates/certificate (2).pdf" style="color: #00FF00;">Datacamp - Introduction To R</a><br>
+  <a href="./datacamp certificates/certificate (1).pdf" style="color: #00FF00;">Datacamp - Exploratory Data Analysis in R</a><br>
+  <a href="./datacamp certificates/certificate.pdf" style="color: #00FF00;">Datacamp - Introduction To Statistics in R</a><br>
+  <a href="./datacamp certificates/certificate.pdf" style="color: #00FF00;">CS50</a><br>
 </p>
 
+### 🏆 Competitions
 <hr>
-
-<h3 align="left">🏆 Competitions</h3>
 
 #### CSIT The Info Security Challenge 2023 & 2024 (Cybersecurity)
 - Developed skills in data and image forensics, memory analysis, cryptography, and working with SQL to understand how to manipulate/interact with databases.
@@ -68,22 +85,3 @@
 
 #### Agoda Codegoda 2023 (Data Structures & Algorithms Competition)
 - Competed in a data structures and algorithms challenge, implementing solutions in Java.
-
-<hr>
-
-<h3 align="left"> 🏢 Internship Experience</h3>
-
-#### Mastercard Singapore - Product Management, Transfer Solutions (May 2024 - Aug 2024) 🇸🇬
-- Supported the team in conducting data analysis of bill payment markets in Asia-Pacific to gain customer insights.
-- Worked on a wireless security solution concept to improve the security of targeted bill payment markets.
-
-#### PwC Singapore, Global Mobility Services - Digital Team (Nov 2021 - Jul 2022) 🇸🇬
-- Automated manual processes and provided data analysis for the Immigration and Tax departments during the transition to a new independent entity.
-- Built and improved UiPath bots for the immigration department to extract data, prepare reports, and periodically update employment pass application caseworks for more than 10 different companies.
-- Developed and maintained UiPath bots for the Tax department to process, rectify, and file tax returns during the annual tax filing season.
-- Updated Alteryx workflows to update and maintain internal dashboards that track key performance indicators (KPI).
-
-#### Thermo Fisher Scientific Singapore - Cyber Security Analyst (Sep 2018 - May 2019) 🇸🇬
-- Monitored security logs and conducted threat identification for the global workforce using incident response tools (Fidelis, CrowdStrike) and a data analysis platform (Splunk).
-- Communicated with end-users and IT service desk teams across different departments and regions to resolve security incidents.
-- Proposed and implemented process workflow improvements.
