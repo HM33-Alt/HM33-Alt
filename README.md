@@ -1,20 +1,24 @@
 <h2 align="center">HARIPRASATH S/O R MOHAN 🇸🇬</h2>
 
+🇸🇬 - Singapore <br>
+
 Welcome! Feel free to browse through or jump ahead to a section!
 
 ### 📖 Navigation
+<hr>
+
 [Socials](#-socials) <br>
 [Internship Experience](#-internship-experience) <br>
-[Relevant Academic Coursework](#-relevant-academic-coursework) <br>
 [Certifications & Courses](#-certifications--courses) <br>
+[Relevant Academic Coursework](#-relevant-academic-coursework) <br>
 [Competitions](#-competitions) <br>
-  
+[Acknowledgements](#acknowledgements) <br>
+
 ### 💻 Socials
 <hr>
 
-### [LinkedIn Profile <- CLICK HERE](https://www.linkedin.com/in/hariprasathmohan)
-### [DevPost <- CLICK HERE](https://www.linkedin.com/in/hariprasathmohan)
-### [Portfolio <- CLICK HERE](https://www.linkedin.com/in/hariprasathmohan)
+[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="LinkedIn Badge">](https://www.linkedin.com/in/hariprasathmohan)
+[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg" alt="Portfolio Badge">](https://www.linkedin.com/in/hariprasathmohan)
 
 ### 🏢 Internship Experience
 <hr>
@@ -34,6 +38,19 @@ Welcome! Feel free to browse through or jump ahead to a section!
 - Communicated with end-users and IT service desk teams across different departments and regions to resolve security incidents.
 - Proposed and implemented process workflow improvements.
 
+### 💻 Certifications & Courses
+<hr>
+
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r2.svg" alt="R Badge"><br>
+  <a href="./datacamp certificates/certificate (2).pdf" style="color: #00FF00;">Datacamp - Introduction To R</a><br>
+  <a href="./datacamp certificates/certificate (1).pdf" style="color: #00FF00;">Datacamp - Exploratory Data Analysis in R</a><br>
+  <a href="./datacamp certificates/certificate.pdf" style="color: #00FF00;">Datacamp - Introduction To Statistics in R</a><br>
+  
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python Badge"><br>
+  <a href="./datacamp certificates/certificate.pdf" style="color: #00FF00;">CS50</a><br>
+</p>
+
 ### 📓 Relevant Academic Coursework
 <hr>
 
@@ -45,10 +62,10 @@ Welcome! Feel free to browse through or jump ahead to a section!
 
 #### Algorithms and Data Structures
 - **CS2040S**: Data Structures and Algorithms
-- **CS3230**: Design and Analysis of Algorithms
+- **CS3230**: Design and Analysis of Algorithms 
 
 #### Machine Learning and Artificial Intelligence
-- **CS2109S**: Introduction to Machine Learning
+- **CS2109S**: Introduction to Machine Learning 
 
 #### Calculus and Linear Algebra
 - **MA1521**: Calculus for Computing
@@ -56,38 +73,49 @@ Welcome! Feel free to browse through or jump ahead to a section!
 
 #### Discrete Mathematics and Statistics
 - **CS1231S**: Discrete Structures
-- **ST1131**: Introduction to Statistics
+- **ST1131**: Introduction to Statistics 
 
 #### Data Science and Computational Biology
-- **DSA1101**: Introduction to Data Science
+- **DSA1101**: Introduction to Data Science 
 - **CS2220**: Introduction to Computational Biology
-
-### 💻 Certifications & Courses
-<hr>
-
-<p>
-  <a href="./datacamp certificates/certificate (2).pdf" style="color: #00FF00;">Datacamp - Introduction To R</a><br>
-  <a href="./datacamp certificates/certificate (1).pdf" style="color: #00FF00;">Datacamp - Exploratory Data Analysis in R</a><br>
-  <a href="./datacamp certificates/certificate.pdf" style="color: #00FF00;">Datacamp - Introduction To Statistics in R</a><br>
-  <a href="./datacamp certificates/certificate.pdf" style="color: #00FF00;">CS50</a><br>
-</p>
 
 ### 🏆 Competitions
 <hr>
 
 #### CSIT The Info Security Challenge 2023 & 2024 (Cybersecurity)
-- Developed skills in data and image forensics, memory analysis, cryptography, and working with SQL to understand how to manipulate/interact with databases.
+> Developed skills in data and image forensics, memory analysis, cryptography, and working with SQL to understand how to manipulate/interact with databases.
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" alt="Kali Linux Badge">
 
 #### NUS Bug Bounty 2023 & 2024 (Cybersecurity)
-- Learnt and conducted security testing on various web and mobile applications using Kali Linux tools.
+> Learnt and conducted security testing on various web and mobile applications using Kali Linux tools.
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg" alt="Kali Linux Badge">
 
 #### EY Open Data Science Challenge 2023 (Data Science)
-- Analysed satellite imagery and data to improve the identification and classification of rice crops.
-- Utilized Python and the NumPy library within a Jupyter Notebook.
+> Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
+> Utilized Python and the NumPy library within a Jupyter Notebook.
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Pycharm Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" alt="Python Badge">
+</p>
+
 
 #### PSA Code Sprint 2024 (Application Development)
-- Created a knowledge-sharing portal featuring an AI-powered chatbot (using APIs) for marine port professionals.
-- Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript).
+> Created a knowledge-sharing portal featuring an AI-powered chatbot (using APIs) for marine port professionals. <br>
+> Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript).
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg" alt="Webstorm Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" alt="Git Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">
+</p>
 
 #### Agoda Codegoda 2023 (Data Structures & Algorithms Competition)
-- Competed in a data structures and algorithms challenge, implementing solutions in Java.
+> Competed in a data structures and algorithms challenge, implementing solutions in Java.
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java Badge">
+
+### Acknowledgements
+<hr>
+
+- Markdown badges from: [m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges)
