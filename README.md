@@ -2,8 +2,6 @@
 
 🇸🇬 - Singapore <br>
 
-Welcome! Feel free to browse through or jump ahead to a section!
-
 ### 📖 Navigation
 <hr>
 
