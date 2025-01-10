@@ -99,13 +99,14 @@ From 🇸🇬 - Singapore <br>
 #### PSA Code Sprint 2024 (Application Development)
 > Created a knowledge-sharing portal featuring an AI-powered chatbot (using APIs) for marine port professionals. <br>
 > Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript).
+
+> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/PSA-Mari-Mind)
+<br>
 <p>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg" alt="Webstorm Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" alt="Git Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">
 </p>
 
 #### Agoda Codegoda 2023 (Data Structures & Algorithms Competition)
