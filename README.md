@@ -3,11 +3,11 @@
 Welcome! Feel free to browse through or jump ahead to a section!
 
 ### 📖 Navigation
-[Socials]() <br>
-[Internship Experience]() <br>
-[Relevant Academic Coursework]() <br>
-[Certifications & Courses]() <br>
-[Competitions]() <br>
+[Socials](#-socials) <br>
+[Internship Experience](#-internship-experience) <br>
+[Relevant Academic Coursework](#-relevant-academic-coursework) <br>
+[Certifications & Courses](#-certifications--courses) <br>
+[Competitions](#-competitions) <br>
   
 ### 💻 Socials
 <hr>
