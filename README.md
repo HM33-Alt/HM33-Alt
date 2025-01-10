@@ -1,6 +1,6 @@
 <h2 align="center">HARIPRASATH S/O R MOHAN 🇸🇬</h2>
 
-🇸🇬 - Singapore <br>
+From 🇸🇬 - Singapore <br>
 
 ### 📖 Navigation
 <hr>
@@ -16,7 +16,6 @@
 <hr>
 
 [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="LinkedIn Badge">](https://www.linkedin.com/in/hariprasathmohan)
-[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg" alt="Portfolio Badge">](https://www.linkedin.com/in/hariprasathmohan)
 
 ### 🏢 Internship Experience
 <hr>
