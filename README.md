@@ -1,8 +1,14 @@
 <h2 align="center">HARIPRASATH S/O R MOHAN 🇸🇬</h2>
 
-Welcome to my Github!
-Feel free to browse through or jump ahead to a section!
+Welcome! Feel free to browse through or jump ahead to a section!
 
+### 📖 Navigation
+[Socials]() <br>
+[Internship Experience]() <br>
+[Relevant Academic Coursework]() <br>
+[Certifications & Courses]() <br>
+[Competitions]() <br>
+  
 ### 💻 Socials
 <hr>
 
