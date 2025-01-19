@@ -75,6 +75,7 @@ From 🇸🇬 - Singapore <br>
 #### Data Science and Computational Biology
 - **DSA1101**: Introduction to Data Science 
 - **CS2220**: Introduction to Computational Biology
+- **CS4330**: Combinatorial Methods In Bioinformatics
 
 ### 🏆 Competitions
 <hr>
@@ -85,6 +86,10 @@ From 🇸🇬 - Singapore <br>
 > Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/shape-cast)
 <br>
 <p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg" alt="Webstorm Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg" alt="AWS Badge">
 </p>
 
@@ -109,7 +114,7 @@ From 🇸🇬 - Singapore <br>
 
 #### EY Open Data Science Challenge 2023 (Data Science)
 > Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
-> Utilized Python and the NumPy library within a Jupyter Notebook.
+> Utilized Python and the NumPy library within Jupyter Notebook environment.
 <p>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Pycharm Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" alt="Python Badge">
