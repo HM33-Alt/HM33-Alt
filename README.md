@@ -39,13 +39,11 @@ From 🇸🇬 - Singapore <br>
 <hr>
 
 <p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r2.svg" alt="R Badge"><br>
-  <a href="./datacamp certificates/certificate (2).pdf" style="color: #00FF00;">Datacamp - Introduction To R</a><br>
-  <a href="./datacamp certificates/certificate (1).pdf" style="color: #00FF00;">Datacamp - Exploratory Data Analysis in R</a><br>
-  <a href="./datacamp certificates/certificate.pdf" style="color: #00FF00;">Datacamp - Introduction To Statistics in R</a><br>
-  
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python Badge"><br>
-  <a href="./datacamp certificates/certificate.pdf" style="color: #00FF00;">CS50</a><br>
+  <a>Datacamp - Introduction To R</a><br>
+  <a>Datacamp - Exploratory Data Analysis in R</a><br>
+  <a>Datacamp - Introduction To Statistics in R</a><br>
+  <a>Harvard CS50 via edX</a><br>
+  <a>CompTIA Security+
 </p>
 
 ### 📓 Relevant Academic Coursework
@@ -59,7 +57,9 @@ From 🇸🇬 - Singapore <br>
 
 #### Algorithms and Data Structures
 - **CS2040S**: Data Structures and Algorithms
-- **CS3230**: Design and Analysis of Algorithms 
+- **CS3230**: Design and Analysis of Algorithms
+- **CS3236**: Information Theory
+- **CS42321**: Parallel and Distributed Algorithms 
 
 #### Machine Learning and Artificial Intelligence
 - **CS2109S**: Introduction to Machine Learning 
@@ -79,6 +79,26 @@ From 🇸🇬 - Singapore <br>
 ### 🏆 Competitions
 <hr>
 
+#### AWS Game Builder Challenge (Application Development)
+> Created a browser-based game with AWS technologies (AWS Amplify, Amazon Q Developer)
+
+> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/shape-cast)
+<br>
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg" alt="AWS Badge">
+</p>
+
+#### PSA Code Sprint 2024 (Application Development)
+> Created a knowledge-sharing portal featuring an AI-powered chatbot (using APIs) for marine port professionals. <br>
+> Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript).
+<br>
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg" alt="Webstorm Badge">
+</p>
+
 #### CSIT The Info Security Challenge 2023 & 2024 (Cybersecurity)
 > Developed skills in data and image forensics, memory analysis, cryptography, and working with SQL to understand how to manipulate/interact with databases.
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" alt="Kali Linux Badge">
@@ -93,20 +113,6 @@ From 🇸🇬 - Singapore <br>
 <p>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Pycharm Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" alt="Python Badge">
-</p>
-
-
-#### PSA Code Sprint 2024 (Application Development)
-> Created a knowledge-sharing portal featuring an AI-powered chatbot (using APIs) for marine port professionals. <br>
-> Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript).
-
-> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/PSA-Mari-Mind)
-<br>
-<p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg" alt="Webstorm Badge">
 </p>
 
 #### Agoda Codegoda 2023 (Data Structures & Algorithms Competition)
