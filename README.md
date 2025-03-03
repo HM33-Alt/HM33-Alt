@@ -95,7 +95,7 @@ From 🇸🇬 - Singapore <br>
 
 #### PSA Code Sprint 2024 (Application Development)
 > Created a knowledge-sharing portal featuring an AI-powered chatbot (using APIs) for marine port professionals. <br>
-> Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript).
+> Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript). <br>
 > Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/PSA-Mari-Mind)
 <br>
 <p>
