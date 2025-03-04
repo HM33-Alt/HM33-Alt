@@ -9,6 +9,7 @@ From 🇸🇬 - Singapore <br>
 [Internship Experience](#-internship-experience) <br>
 [Certifications & Courses](#-certifications--courses) <br>
 [Relevant Academic Coursework](#-relevant-academic-coursework) <br>
+[School Projects](#-school-projects) <br>
 [Competitions](#-competitions) <br>
 [Acknowledgements](#acknowledgements) <br>
 
@@ -76,6 +77,22 @@ From 🇸🇬 - Singapore <br>
 - **DSA1101**: Introduction to Data Science 
 - **CS2220**: Introduction to Computational Biology
 - **CS4330**: Combinatorial Methods In Bioinformatics
+
+### 🏫 School Projects
+<hr>
+
+#### CS2103T - CareerSync
+> Worked in a group setting to build on an existing code base and create a CLI-managed internship tracker application. <br>
+
+> To see my contributions, please look out for **HM33-Stu** <br>
+
+> Utilized SourceTree, Git, GitHub, Gradle and IntelliJ IDEA. <br>
+
+> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/AY2324S2-CS2103T-W11-1/tp) <br>
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea3.svg" alt="IntelliJ IDEA Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git Badge">
+</p>
 
 ### 🏆 Competitions
 <hr>
