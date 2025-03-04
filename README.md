@@ -95,9 +95,23 @@ From 🇸🇬 - Singapore <br>
 
 #### PSA Code Sprint 2024 (Application Development)
 > Created a knowledge-sharing portal featuring an AI-powered chatbot (using APIs) for marine port professionals. <br>
+
 > Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript). <br>
-> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/PSA-Mari-Mind)
-<br>
+
+> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/PSA-Mari-Mind) <br>
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg" alt="Webstorm Badge">
+</p>
+
+#### NASA Space Apps 2024 (Basic Web Development)
+> Created a simple navigable website featuring my research project about life on a planet reliant on thermonuclear energy. <br>
+
+> Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript). <br>
+
+> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/Team-HSpace-Tenebris) <br>
 <p>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS Badge">
@@ -115,6 +129,7 @@ From 🇸🇬 - Singapore <br>
 
 #### EY Open Data Science Challenge 2023 (Data Science)
 > Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
+
 > Utilized Python and the NumPy library within Jupyter Notebook environment.
 <p>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Pycharm Badge">
