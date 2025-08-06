@@ -22,19 +22,14 @@ From 🇸🇬 - Singapore <br>
 <hr>
 
 #### Mastercard Singapore - Product Management, Transfer Solutions (May 2024 - Aug 2024) 🇸🇬
-- Supported the team in conducting data analysis of bill payment markets in Asia-Pacific to gain customer insights.
-- Worked on a wireless security solution concept to improve the security of targeted bill payment markets.
+- Contributed to the development of an internal automation tool to scrape real-time FX rate data using Selenium, Python and ChromeDriver and pipelined data into structured reports.
+- Automated generation of Excel reports and compressed output into ZIP files using Pandas and used Prefect for workflow orchestration and scheduling.
+- The tool has been adopted by the department to increase update frequency and reduce overhead for processing
 
 #### PwC Singapore, Global Mobility Services - Digital Team (Nov 2021 - Jul 2022) 🇸🇬
-- Automated manual processes and provided data analysis for the Immigration and Tax departments during the transition to a new independent entity.
-- Built and improved UiPath bots for the immigration department to extract data, prepare reports, and periodically update employment pass application caseworks for more than 10 different companies.
-- Developed and maintained UiPath bots for the Tax department to process, rectify, and file tax returns during the annual tax filing season.
-- Updated Alteryx workflows to update and maintain internal dashboards that track key performance indicators (KPI).
-
-#### Thermo Fisher Scientific Singapore - Cyber Security Analyst (Sep 2018 - May 2019) 🇸🇬
-- Monitored security logs and conducted threat identification for the global workforce using incident response tools (Fidelis, CrowdStrike) and a data analysis platform (Splunk).
-- Communicated with end-users and IT service desk teams across different departments and regions to resolve security incidents.
-- Proposed and implemented process workflow improvements.
+- Contributed to the pilot program of setting up UiPath bots to automate manual tax filing and immigration casework processes for more than 20 companies. This eliminated various manual processes and reduced processing time.
+- Designed Alteryx – Power BI workflows to automate ETL processes for internal dashboards, which allowed for multiple real-time automatic updates throughout the day instead of just one daily manual update.
+- Migrated Excel VBA Spreadsheets to Python, to automate client billing calculations and invoice generation and trained administrators of diverse age groups in their use.
 
 ### 💻 Certifications & Courses
 <hr>
@@ -82,7 +77,9 @@ From 🇸🇬 - Singapore <br>
 <hr>
 
 #### CS2103T - CareerSync
-> Worked in a group setting to build on an existing code base and create a CLI-managed internship tracker application. <br>
+- Collaborated in a group setting (Agile) for a Software Engineering Module, to create a CLI based internship tracker application for students to manage numerous applications with tracking, sorting, and filtering functionalities. <br>
+- Built on top of a Java 11 code base and contributed to the implementation of modular architecture including parser, logic, and storage modules. <br>
+- Utilized CI/CD pipeline with Gradle for dependency and package management and co-authored the user guide and technical documentation in Markdown. Versioning control managed using Git and SourceTree. <br>
 
 > To see my contributions, please look out for **HM33-Stu** <br>
 
@@ -98,7 +95,7 @@ From 🇸🇬 - Singapore <br>
 <hr>
 
 #### AWS Game Builder Challenge (Application Development)
-> Created a browser-based game with AWS technologies (AWS Amplify, Amazon Q Developer)
+- Created a browser-based game with AWS technologies (AWS Amplify, Amazon Q Developer)
 
 > Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/shape-cast)
 <br>
@@ -111,9 +108,10 @@ From 🇸🇬 - Singapore <br>
 </p>
 
 #### PSA Code Sprint 2024 (Application Development)
-> Created a knowledge-sharing portal featuring an AI-powered chatbot (using APIs) for marine port professionals. <br>
-
-> Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript). <br>
+- Created a knowledge-portal application to streamline incident reporting and response for Marine Port professionals.  <br>
+- Designed frontend with HTML/CSS Javascript and dynamic content, rendering based on backend JSON responses.  <br>
+- Built backend with Python and implemented API endpoints/calls, which routed user queries to a HuggingFace language model, essentially creating an AI-powered chatbot.  <br>
+- Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript). <br>
 
 > Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/PSA-Mari-Mind) <br>
 <p>
@@ -124,9 +122,8 @@ From 🇸🇬 - Singapore <br>
 </p>
 
 #### NASA Space Apps 2024 (Basic Web Development)
-> Created a simple navigable website featuring my research project about life on a planet reliant on thermonuclear energy. <br>
-
-> Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript). <br>
+- Created a simple navigable website featuring my research project about life on a planet reliant on thermonuclear energy. <br>
+- Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript). <br>
 
 > Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/Team-HSpace-Tenebris) <br>
 <p>
@@ -137,15 +134,15 @@ From 🇸🇬 - Singapore <br>
 </p>
 
 #### CSIT The Info Security Challenge 2023 & 2024 (Cybersecurity)
-> Developed skills in data and image forensics, memory analysis, cryptography, and working with SQL to understand how to manipulate/interact with databases.
+- Developed skills in data and image forensics, memory analysis, cryptography, and working with SQL to understand how to manipulate/interact with databases.
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" alt="Kali Linux Badge">
 
 #### NUS Bug Bounty 2023 & 2024 (Cybersecurity)
-> Learnt and conducted security testing on various web and mobile applications using Kali Linux tools.
+- Learnt and conducted security testing on various web and mobile applications using Kali Linux tools.
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg" alt="Kali Linux Badge">
 
 #### EY Open Data Science Challenge 2023 (Data Science)
-> Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
+- Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
 
 > Utilized Python and the NumPy library within Jupyter Notebook environment.
 <p>
@@ -154,7 +151,7 @@ From 🇸🇬 - Singapore <br>
 </p>
 
 #### Agoda Codegoda 2023 (Data Structures & Algorithms Competition)
-> Competed in a data structures and algorithms challenge, implementing solutions in Java.
+- Competed in a data structures and algorithms challenge, implementing solutions in Java.
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java Badge">
 
 ### Acknowledgements
