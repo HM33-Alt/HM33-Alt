@@ -55,7 +55,7 @@ From 🇸🇬 - Singapore <br>
 - **CS2040S**: Data Structures and Algorithms
 - **CS3230**: Design and Analysis of Algorithms
 - **CS3236**: Information Theory
-- **CS42321**: Parallel and Distributed Algorithms 
+- **CS4231**: Parallel and Distributed Algorithms 
 
 #### Machine Learning and Artificial Intelligence
 - **CS2109S**: Introduction to Machine Learning 
