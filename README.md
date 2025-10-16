@@ -5,31 +5,11 @@ From 🇸🇬 - Singapore <br>
 ### 📖 Navigation
 <hr>
 
-[Socials](#-socials) <br>
-[Internship Experience](#-internship-experience) <br>
 [Certifications & Courses](#-certifications--courses) <br>
 [Relevant Academic Coursework](#-relevant-academic-coursework) <br>
 [School Projects](#-school-projects) <br>
 [Competitions](#-competitions) <br>
 [Acknowledgements](#acknowledgements) <br>
-
-### 💻 Socials
-<hr>
-
-[<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="LinkedIn Badge">](https://www.linkedin.com/in/hariprasathmohan)
-
-### 🏢 Internship Experience
-<hr>
-
-#### Mastercard Singapore - Product Management, Transfer Solutions (May 2024 - Aug 2024) 🇸🇬
-- Contributed to the development of an internal automation tool to scrape real-time FX rate data using Selenium, Python and ChromeDriver and pipelined data into structured reports.
-- Automated generation of Excel reports and compressed output into ZIP files using Pandas and used Prefect for workflow orchestration and scheduling.
-- The tool has been adopted by the department to increase update frequency and reduce overhead for processing
-
-#### PwC Singapore, Global Mobility Services - Digital Team (Nov 2021 - Jul 2022) 🇸🇬
-- Contributed to the pilot program of setting up UiPath bots to automate manual tax filing and immigration casework processes for more than 20 companies. This eliminated various manual processes and reduced processing time.
-- Designed Alteryx – Power BI workflows to automate ETL processes for internal dashboards, which allowed for multiple real-time automatic updates throughout the day instead of just one daily manual update.
-- Migrated Excel VBA Spreadsheets to Python, to automate client billing calculations and invoice generation and trained administrators of diverse age groups in their use.
 
 ### 💻 Certifications & Courses
 <hr>
