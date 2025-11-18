@@ -2,62 +2,94 @@
 
 From 🇸🇬 - Singapore <br>
 
-### 📖 Navigation
+## 📖 Navigation By Area Of Focus
 <hr>
 
-[Certifications & Courses](#-certifications--courses) <br>
-[Relevant Academic Coursework](#-relevant-academic-coursework) <br>
-[School Projects](#-school-projects) <br>
-[Competitions](#-competitions) <br>
-[Acknowledgements](#acknowledgements) <br>
+[Algorithms Theory and Data Structures](#algorithms-theory-and-data-structures-undergraduate-focus-area-2) <br>
+[Artificial Intelligence](#artificial-intelligence-undergraduate-focus-area-1) <br>
+[Cybersecurity](#cybersecurity) <br>
+[Data Science](#data-science) <br>
+[Software Engineering](#software-engineering) <br>
+[Statistics and Mathematics](#statistics-and-mathematics) <br>
+[Theoretical Computer Science](#theoretical-computer-science) <br>
 
-### 💻 Certifications & Courses
+## Algorithms Theory and Data Structures (Undergraduate Focus Area 2)
 <hr>
 
-<p>
-  <a>Datacamp - Introduction To R</a><br>
-  <a>Datacamp - Exploratory Data Analysis in R</a><br>
-  <a>Datacamp - Introduction To Statistics in R</a><br>
-  <a>Harvard CS50 via edX</a><br>
-  <a>CompTIA Security+
-</p>
-
-### 📓 Relevant Academic Coursework
-<hr>
-
-#### Programming and Software Engineering
-- **CS2030S**: Programming Methodology II
-- **CS2103T**: Software Engineering
-- **CS2106**: Introduction to Operating Systems
-- **CS2100**: Computer Organisation
-
-#### Algorithms and Data Structures
+### Academic Coursework
+- **CS1231S**: Discrete Structures
 - **CS2040S**: Data Structures and Algorithms
 - **CS3230**: Design and Analysis of Algorithms
 - **CS3236**: Information Theory
-- **CS4231**: Parallel and Distributed Algorithms 
+- **CS4231**: Parallel and Distributed Algorithms
+### Competitions
+#### Agoda Codegoda 2023 (Data Structures & Algorithms Competition)
+- Competed in a data structures and algorithms challenge, implementing solutions in Java.
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java Badge">
 
-#### Machine Learning and Artificial Intelligence
-- **CS2109S**: Introduction to Machine Learning 
+## Artificial Intelligence (Undergraduate Focus Area 1)
+<hr>
 
-#### Calculus and Linear Algebra
-- **MA1521**: Calculus for Computing
-- **MA1522**: Linear Algebra for Computing
+### Academic Coursework
+- **CS2109S**: Introduction to Machine Learning
+### Competitions
+- Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
 
-#### Discrete Mathematics and Statistics
-- **CS1231S**: Discrete Structures
-- **ST1131**: Introduction to Statistics
-- **ST2334**: Probability and Statistics
+> Utilized Python and the NumPy library within Jupyter Notebook environment.
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Pycharm Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" alt="Python Badge">
+</p>
 
-#### Data Science and Computational Biology
-- **DSA1101**: Introduction to Data Science 
+### Certifications
+**Harvard CS50 via edX**
+
+## Cybersecurity
+
+### Competitions
+#### CSIT The Info Security Challenge 2023 & 2024 (Cybersecurity)
+- Developed skills in data and image forensics, memory analysis, cryptography, and working with SQL to understand how to manipulate/interact with databases.
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" alt="Kali Linux Badge">
+
+#### NUS Bug Bounty 2023 & 2024 (Cybersecurity)
+- Learnt and conducted security testing on various web and mobile applications using Kali Linux tools.
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg" alt="Kali Linux Badge">
+
+### Certifications
+- CompTIA Security+
+
+## Data Science
+<hr>
+
+### Academic Coursework
+- **DSA1101**: Introduction to Data Science
 - **CS2220**: Introduction to Computational Biology
 - **CS4330**: Combinatorial Methods In Bioinformatics
 
-### 🏫 School Projects
+### Competitions
+#### EY Open Data Science Challenge 2023 (Data Science)
+- Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
+
+> Utilized Python and the NumPy library within Jupyter Notebook environment.
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Pycharm Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" alt="Python Badge">
+</p>
+
+### Certifications
+<p>
+    <a> **Datacamp** - Introduction To R </a>
+    <a> **Datacamp**  - Exploratory Data Analysis in R </a>
+    <a> **Datacamp** - Introduction To Statistics in R </a>
+</p>
+
+## Software Engineering
 <hr>
 
-#### CS2103T - CareerSync
+### Academic Coursework
+- **CS2103T**: Software Engineering
+
+#### CS2103T - CareerSync (Coursework Project)
 - Collaborated in a group setting (Agile) for a Software Engineering Module, to create a CLI based internship tracker application for students to manage numerous applications with tracking, sorting, and filtering functionalities. <br>
 - Built on top of a Java 11 code base and contributed to the implementation of modular architecture including parser, logic, and storage modules. <br>
 - Utilized CI/CD pipeline with Gradle for dependency and package management and co-authored the user guide and technical documentation in Markdown. Versioning control managed using Git and SourceTree. <br>
@@ -71,13 +103,9 @@ From 🇸🇬 - Singapore <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea3.svg" alt="IntelliJ IDEA Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git Badge">
 </p>
-
-### 🏆 Competitions
-<hr>
-
+### Competitions
 #### AWS Game Builder Challenge (Application Development)
 - Created a browser-based game with AWS technologies (AWS Amplify, Amazon Q Developer)
-
 > Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/shape-cast)
 <br>
 <p>
@@ -114,26 +142,23 @@ From 🇸🇬 - Singapore <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg" alt="Webstorm Badge">
 </p>
 
-#### CSIT The Info Security Challenge 2023 & 2024 (Cybersecurity)
-- Developed skills in data and image forensics, memory analysis, cryptography, and working with SQL to understand how to manipulate/interact with databases.
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" alt="Kali Linux Badge">
+## Statistics and Mathematics
+<hr>
+### Academic Coursework
+- **MA1521**: Calculus for Computing
+- **MA1522**: Linear Algebra for Computing
+- **ST1131**: Introduction to Statistics
+- **ST2334**: Probability and Statistics
 
-#### NUS Bug Bounty 2023 & 2024 (Cybersecurity)
-- Learnt and conducted security testing on various web and mobile applications using Kali Linux tools.
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg" alt="Kali Linux Badge">
 
-#### EY Open Data Science Challenge 2023 (Data Science)
-- Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
+## Theoretical Computer Science
+<hr>
 
-> Utilized Python and the NumPy library within Jupyter Notebook environment.
-<p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Pycharm Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" alt="Python Badge">
-</p>
+### Academic Coursework
+- **CS2030S**: Programming Methodology II
+- **CS2106**: Introduction to Operating Systems
+- **CS2100**: Computer Organisation
 
-#### Agoda Codegoda 2023 (Data Structures & Algorithms Competition)
-- Competed in a data structures and algorithms challenge, implementing solutions in Java.
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java Badge">
 
 ### Acknowledgements
 <hr>
