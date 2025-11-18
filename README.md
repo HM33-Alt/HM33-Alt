@@ -47,7 +47,7 @@ From 🇸🇬 - Singapore <br>
 #### Discrete Mathematics and Statistics
 - **CS1231S**: Discrete Structures
 - **ST1131**: Introduction to Statistics
-- **ST2334** :Probability and Statistics
+- **ST2334**: Probability and Statistics
 
 #### Data Science and Computational Biology
 - **DSA1101**: Introduction to Data Science 
