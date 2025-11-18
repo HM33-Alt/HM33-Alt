@@ -4,16 +4,15 @@ From 🇸🇬 - Singapore <br>
 
 ## 📖 Navigation By Area Of Focus
 
-[Algorithms Theory and Data Structures](#algorithms-theory-and-data-structures-undergraduate-focus-area-2) <br>
-[Artificial Intelligence](#artificial-intelligence-undergraduate-focus-area-1) <br>
+[Algorithms Theory and Data Structures](#algorithms-theory-and-data-structures-undergraduate-focus-area) <br>
+[Artificial Intelligence](#artificial-intelligence-undergraduate-focus-area) <br>
 [Cybersecurity](#cybersecurity) <br>
 [Data Science](#data-science) <br>
 [Software Engineering](#software-engineering) <br>
 [Statistics and Mathematics](#statistics-and-mathematics) <br>
 [Theoretical Computer Science](#theoretical-computer-science) <br>
 
-## Algorithms Theory and Data Structures (Undergraduate Focus Area 2)
-<hr>
+## Algorithms Theory and Data Structures (Undergraduate Focus Area)
 
 ### Academic Coursework
 - **CS1231S**: Discrete Structures
@@ -21,17 +20,19 @@ From 🇸🇬 - Singapore <br>
 - **CS3230**: Design and Analysis of Algorithms
 - **CS3236**: Information Theory
 - **CS4231**: Parallel and Distributed Algorithms
+  
 ### Competitions
 #### Agoda Codegoda 2023 (Data Structures & Algorithms Competition)
 - Competed in a data structures and algorithms challenge, implementing solutions in Java.
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java Badge">
 
-## Artificial Intelligence (Undergraduate Focus Area 1)
-<hr>
+## Artificial Intelligence (Undergraduate Focus Area)
 
 ### Academic Coursework
 - **CS2109S**: Introduction to Machine Learning
+
 ### Competitions
+#### EY Open Data Science Challenge 2023
 - Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
 
 > Utilized Python and the NumPy library within Jupyter Notebook environment.
@@ -40,8 +41,8 @@ From 🇸🇬 - Singapore <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" alt="Python Badge">
 </p>
 
-### Certifications
-**Harvard CS50 via edX**
+### Online Courses & Certifications
+- **Harvard CS50 via edX**
 
 ## Cybersecurity
 
@@ -55,10 +56,9 @@ From 🇸🇬 - Singapore <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg" alt="Kali Linux Badge">
 
 ### Certifications
-- CompTIA Security+
+- **CompTIA Security+**
 
 ## Data Science
-<hr>
 
 ### Academic Coursework
 - **DSA1101**: Introduction to Data Science
@@ -66,7 +66,7 @@ From 🇸🇬 - Singapore <br>
 - **CS4330**: Combinatorial Methods In Bioinformatics
 
 ### Competitions
-#### EY Open Data Science Challenge 2023 (Data Science)
+#### EY Open Data Science Challenge 2023
 - Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
 
 > Utilized Python and the NumPy library within Jupyter Notebook environment.
@@ -75,15 +75,12 @@ From 🇸🇬 - Singapore <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" alt="Python Badge">
 </p>
 
-### Certifications
-<p>
-    <a> **Datacamp** - Introduction To R </a>
-    <a> **Datacamp**  - Exploratory Data Analysis in R </a>
-    <a> **Datacamp** - Introduction To Statistics in R </a>
-</p>
+### Online Courses & Certifications
+- **Datacamp** - Introduction To R
+- **Datacamp**  - Exploratory Data Analysis in R
+- **Datacamp** - Introduction To Statistics in R
 
 ## Software Engineering
-<hr>
 
 ### Academic Coursework
 - **CS2103T**: Software Engineering
@@ -102,8 +99,9 @@ From 🇸🇬 - Singapore <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea3.svg" alt="IntelliJ IDEA Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git Badge">
 </p>
+
 ### Competitions
-#### AWS Game Builder Challenge (Application Development)
+#### AWS Game Builder Challenge
 - Created a browser-based game with AWS technologies (AWS Amplify, Amazon Q Developer)
 > Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/shape-cast)
 <br>
@@ -115,7 +113,7 @@ From 🇸🇬 - Singapore <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg" alt="AWS Badge">
 </p>
 
-#### PSA Code Sprint 2024 (Application Development)
+#### PSA Code Sprint 2024
 - Created a knowledge-portal application to streamline incident reporting and response for Marine Port professionals.  <br>
 - Designed frontend with HTML/CSS Javascript and dynamic content, rendering based on backend JSON responses.  <br>
 - Built backend with Python and implemented API endpoints/calls, which routed user queries to a HuggingFace language model, essentially creating an AI-powered chatbot.  <br>
@@ -129,7 +127,7 @@ From 🇸🇬 - Singapore <br>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg" alt="Webstorm Badge">
 </p>
 
-#### NASA Space Apps 2024 (Basic Web Development)
+#### NASA Space Apps 2024
 - Created a simple navigable website featuring my research project about life on a planet reliant on thermonuclear energy. <br>
 - Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript). <br>
 
@@ -142,24 +140,21 @@ From 🇸🇬 - Singapore <br>
 </p>
 
 ## Statistics and Mathematics
-<hr>
+
 ### Academic Coursework
 - **MA1521**: Calculus for Computing
 - **MA1522**: Linear Algebra for Computing
 - **ST1131**: Introduction to Statistics
 - **ST2334**: Probability and Statistics
 
-
 ## Theoretical Computer Science
-<hr>
 
 ### Academic Coursework
 - **CS2030S**: Programming Methodology II
 - **CS2106**: Introduction to Operating Systems
 - **CS2100**: Computer Organisation
 
-
-### Acknowledgements
+## Acknowledgements
 <hr>
 
 - Markdown badges from: [m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges)
