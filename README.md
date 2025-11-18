@@ -3,7 +3,6 @@
 From 🇸🇬 - Singapore <br>
 
 ## 📖 Navigation By Area Of Focus
-<hr>
 
 [Algorithms Theory and Data Structures](#algorithms-theory-and-data-structures-undergraduate-focus-area-2) <br>
 [Artificial Intelligence](#artificial-intelligence-undergraduate-focus-area-1) <br>
