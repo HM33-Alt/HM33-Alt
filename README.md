@@ -101,6 +101,20 @@ From 🇸🇬 - Singapore <br>
 </p>
 
 ### Competitions
+
+#### TikTok Tech Jam 2025
+- Created a web-based tool to visualize and analyze dependencies in Kotlin Knit-based projects. The tool highlights potential issues, suggestions for improvement, and allows interactive exploration of project dependencies.
+> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/knit-VAR)
+<br>
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg" alt="Kotlin Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" alt="React Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" alt="TypeScript Badge">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea3.svg" alt="IntelliJ Badge">
+</p>
+
+
 #### AWS Game Builder Challenge
 - Created a browser-based game with AWS technologies (AWS Amplify, Amazon Q Developer)
 > Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/shape-cast)
