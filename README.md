@@ -82,6 +82,10 @@ From 🇸🇬 - Singapore <br>
 - **Datacamp** - Introduction To Statistics in R
 
 ## Electric Vehicles
+- Explored basic concepts, do check out 2 repositories which can be likened to simple learning/exploratory projects with Python. <br>
+> Click To Visit Repo (Battery Packs Comparison - Python): [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/EV-1-Battery-Packs) 
+
+> Click To Visit Repo (BMS Faults - Python): [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/EV-2-BMS)
 
 ## Software Engineering
 
