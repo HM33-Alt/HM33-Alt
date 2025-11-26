@@ -8,6 +8,7 @@ From 🇸🇬 - Singapore <br>
 [Artificial Intelligence](#artificial-intelligence-undergraduate-focus-area) <br>
 [Cybersecurity](#cybersecurity) <br>
 [Data Science](#data-science) <br>
+[Electric Vehicles](#electric-vehicles) <br>
 [Software Engineering](#software-engineering) <br>
 [Statistics and Mathematics](#statistics-and-mathematics) <br>
 [Theoretical Computer Science](#theoretical-computer-science) <br>
@@ -79,6 +80,8 @@ From 🇸🇬 - Singapore <br>
 - **Datacamp** - Introduction To R
 - **Datacamp**  - Exploratory Data Analysis in R
 - **Datacamp** - Introduction To Statistics in R
+
+## Electric Vehicles
 
 ## Software Engineering
 
