@@ -5,12 +5,11 @@
 [Artificial Intelligence](#artificial-intelligence-undergraduate-focus-area) <br>
 [Cybersecurity](#cybersecurity) <br>
 [Data Science](#data-science) <br>
-[Electric Vehicles](#electric-vehicles) <br>
 [Software Engineering](#software-engineering) <br>
 [Statistics and Mathematics](#statistics-and-mathematics) <br>
 [Theoretical Computer Science](#theoretical-computer-science) <br>
 
-## Algorithms Theory and Data Structures (Undergraduate Focus Area)
+## Algorithms Theory and Data Structures
 
 ### Academic Coursework
 - **CS1231S**: Discrete Structures
@@ -78,11 +77,6 @@
 - **Datacamp**  - Exploratory Data Analysis in R
 - **Datacamp** - Introduction To Statistics in R
 
-## Electric Vehicles
-- Explored basic concepts, do check out 2 repositories which can be likened to simple learning/exploratory projects with Python. <br>
-> Click To Visit Repo (Battery Packs Comparison - Python): [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/EV-1-Battery-Packs) 
-> Click To Visit Repo (BMS Faults - Python): [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/EV-2-BMS)
-
 ## Software Engineering
 
 ### Academic Coursework
@@ -137,18 +131,6 @@
 - Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript). <br>
 
 > Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/PSA-Mari-Mind) <br>
-<p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg" alt="Webstorm Badge">
-</p>
-
-#### NASA Space Apps 2024
-- Created a simple navigable website featuring my research project about life on a planet reliant on thermonuclear energy. <br>
-- Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript). <br>
-
-> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/Team-HSpace-Tenebris) <br>
 <p>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML Badge">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS Badge">
