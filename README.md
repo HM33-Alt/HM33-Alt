@@ -1,7 +1,3 @@
-<h2 align="center">HARIPRASATH S/O R MOHAN 🇸🇬</h2>
-
-From 🇸🇬 - Singapore <br>
-
 ## 📖 Navigation By Area Of Focus
 
 [Algorithms Theory and Data Structures](#algorithms-theory-and-data-structures-undergraduate-focus-area) <br>
