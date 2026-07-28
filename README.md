@@ -1,159 +1,69 @@
+## 📖 Contents
 
-## 📖 Navigation By Area Of Focus
+[Coursework](#coursework) · [Competitions](#competitions) · [Certifications](#certifications)
 
-[Algorithms Theory and Data Structures](#algorithms-theory-and-data-structures-undergraduate-focus-area) <br>
-[Artificial Intelligence](#artificial-intelligence-undergraduate-focus-area) <br>
-[Cybersecurity](#cybersecurity) <br>
-[Data Science](#data-science) <br>
-[Software Engineering](#software-engineering) <br>
-[Statistics and Mathematics](#statistics-and-mathematics) <br>
-[Theoretical Computer Science](#theoretical-computer-science) <br>
+---
 
-## Algorithms Theory and Data Structures
+## Coursework
 
-### Academic Coursework
-- **CS1231S**: Discrete Structures
-- **CS2040S**: Data Structures and Algorithms
-- **CS3230**: Design and Analysis of Algorithms
-- **CS3236**: Information Theory
-- **CS4231**: Parallel and Distributed Algorithms
-  
-### Competitions
-#### Agoda Codegoda 2023 (Data Structures & Algorithms Competition)
-- Competed in a data structures and algorithms challenge, implementing solutions in Java.
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java Badge">
+### CS2103T — CareerSync
+CLI-based internship tracker built with an Agile team on a Java 11 codebase.
 
-## Artificial Intelligence (Undergraduate Focus Area)
+- Designed modular architecture (parser, logic, storage) and co-authored user/technical docs in Markdown.
+- Managed CI/CD with Gradle and version control via Git / SourceTree / IntelliJ IDEA.
 
-### Academic Coursework
-- **CS2109S**: Introduction to Machine Learning
+**Contributions:** Look for **HM33-Stu**  
+**Stack:** Java 11, Gradle, Git, SourceTree, IntelliJ IDEA  
+**Repo:** [github.com/AY2324S2-CS2103T-W11-1/tp](https://github.com/AY2324S2-CS2103T-W11-1/tp)
 
-### Competitions
-#### EY Open Data Science Challenge 2023
-- Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
+---
 
-> Utilized Python and the NumPy library within Jupyter Notebook environment.
-<p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Pycharm Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" alt="Python Badge">
-</p>
+## Competitions
 
-### Online Courses & Certifications
-- **Harvard CS50 via edX**
+### TikTok Tech Jam 2025 — knit-VAR
+Web tool to visualize and analyze dependencies in Kotlin Knit projects with interactive exploration and issue highlighting.
 
-## Cybersecurity
+**Stack:** Kotlin, Web  
+**Repo:** [github.com/HM33-Alt/knit-VAR](https://github.com/HM33-Alt/knit-VAR)
 
-### Competitions
-#### CSIT The Info Security Challenge 2023 & 2024 (Cybersecurity)
-- Developed skills in data and image forensics, memory analysis, cryptography, and working with SQL to understand how to manipulate/interact with databases.
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" alt="Kali Linux Badge">
+### AWS Game Builder Challenge — Shape Cast
+Browser-based game using AWS Amplify and Amazon Q Developer.
 
-#### NUS Bug Bounty 2023 & 2024 (Cybersecurity)
-- Learnt and conducted security testing on various web and mobile applications using Kali Linux tools.
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg" alt="Kali Linux Badge">
+**Stack:** AWS Amplify, Amazon Q Developer  
+**Repo:** [github.com/HM33-Alt/shape-cast](https://github.com/HM33-Alt/shape-cast)
 
-### Certifications
-- **CompTIA Security+**
+### PSA Code Sprint 2024 — Mari Mind
+AI-powered knowledge portal for Marine Port incident reporting.
 
-## Data Science
+- Frontend: HTML/CSS/JS with dynamic JSON rendering.
+- Backend: Python API routing queries to a Hugging Face LLM.
 
-### Academic Coursework
-- **DSA1101**: Introduction to Data Science
-- **CS2220**: Introduction to Computational Biology
-- **CS4330**: Combinatorial Methods In Bioinformatics
+**Stack:** Python, JavaScript, HTML/CSS, Hugging Face API, WebStorm  
+**Repo:** [github.com/HM33-Alt/PSA-Mari-Mind](https://github.com/HM33-Alt/PSA-Mari-Mind)
 
-### Competitions
-#### EY Open Data Science Challenge 2023
-- Analysed satellite imagery and data to improve the identification and classification of rice crops. <br>
+### EY Open Data Science Challenge 2023
+Satellite imagery analysis for rice crop classification.  
+**Stack:** Python, NumPy, Jupyter Notebook
 
-> Utilized Python and the NumPy library within Jupyter Notebook environment.
-<p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Pycharm Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg" alt="Python Badge">
-</p>
+### Agoda Codegoda 2023
+Data structures & algorithms competition in Java.
 
-### Online Courses & Certifications
-- **Datacamp** - Introduction To R
-- **Datacamp**  - Exploratory Data Analysis in R
-- **Datacamp** - Introduction To Statistics in R
+### Cybersecurity CTFs
+| Competition | Year |
+|-------------|------|
+| CSIT The Info Security Challenge (TISC) | 2023, 2024, 2026 |
+| HTX CTF | 2026 |
+| GovTech AI CTF | 2024 |
+| NUS Bug Bounty | 2023, 2024 |
 
-## Software Engineering
+---
 
-### Academic Coursework
-- **CS2103T**: Software Engineering
+## Certifications
 
-#### CS2103T - CareerSync (Coursework Project)
-- Collaborated in a group setting (Agile) for a Software Engineering Module, to create a CLI based internship tracker application for students to manage numerous applications with tracking, sorting, and filtering functionalities. <br>
-- Built on top of a Java 11 code base and contributed to the implementation of modular architecture including parser, logic, and storage modules. <br>
-- Utilized CI/CD pipeline with Gradle for dependency and package management and co-authored the user guide and technical documentation in Markdown. Versioning control managed using Git and SourceTree. <br>
+- CompTIA Security+
+- Harvard CS50 (edX)
+- DataCamp — Introduction to R
+- DataCamp — Exploratory Data Analysis in R
+- DataCamp — Introduction to Statistics in R
 
-> To see my contributions, please look out for **HM33-Stu** <br>
-
-> Utilized SourceTree, Git, GitHub, Gradle and IntelliJ IDEA. <br>
-
-> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/AY2324S2-CS2103T-W11-1/tp) <br>
-<p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea3.svg" alt="IntelliJ IDEA Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git Badge">
-</p>
-
-### Competitions
-
-#### TikTok Tech Jam 2025
-- Created a web-based tool to visualize and analyze dependencies in Kotlin Knit-based projects. The tool highlights potential issues, suggestions for improvement, and allows interactive exploration of project dependencies.
-> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/knit-VAR)
-<br>
-<p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg" alt="Kotlin Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" alt="React Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" alt="TypeScript Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea3.svg" alt="IntelliJ Badge">
-</p>
-
-
-#### AWS Game Builder Challenge
-- Created a browser-based game with AWS technologies (AWS Amplify, Amazon Q Developer)
-> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/shape-cast)
-<br>
-<p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg" alt="Webstorm Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg" alt="AWS Badge">
-</p>
-
-#### PSA Code Sprint 2024
-- Created a knowledge-portal application to streamline incident reporting and response for Marine Port professionals.  <br>
-- Designed frontend with HTML/CSS Javascript and dynamic content, rendering based on backend JSON responses.  <br>
-- Built backend with Python and implemented API endpoints/calls, which routed user queries to a HuggingFace language model, essentially creating an AI-powered chatbot.  <br>
-- Utilized SourceTree, Git, GitHub, and WebStorm (HTML/CSS, JavaScript). <br>
-
-> Click To Visit Repo: [<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg" alt="GitHub Badge">](https://github.com/HM33-Alt/PSA-Mari-Mind) <br>
-<p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript Badge">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg" alt="Webstorm Badge">
-</p>
-
-## Statistics and Mathematics
-
-### Academic Coursework
-- **MA1521**: Calculus for Computing
-- **MA1522**: Linear Algebra for Computing
-- **ST1131**: Introduction to Statistics
-- **ST2334**: Probability and Statistics
-
-## Theoretical Computer Science
-
-### Academic Coursework
-- **CS2030S**: Programming Methodology II
-- **CS2106**: Introduction to Operating Systems
-- **CS2100**: Computer Organisation
-
-## Acknowledgements
-<hr>
-
-- Markdown badges from: [m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges)
+---
