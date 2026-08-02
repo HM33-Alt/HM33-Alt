@@ -6,7 +6,7 @@
 
 ## Coursework
 
-### CS2103T — CareerSync
+### CS2103T — CareerSync (Self-Contained Application - Not Maintained)
 CLI-based internship tracker built with an Agile team on a Java 11 codebase.
 
 - Designed modular architecture (parser, logic, storage) and co-authored user/technical docs in Markdown.
@@ -20,19 +20,19 @@ CLI-based internship tracker built with an Agile team on a Java 11 codebase.
 
 ## Competitions
 
-### TikTok Tech Jam 2025 — knit-VAR
+### TikTok Tech Jam 2025 — knit-VAR (Not Maintained)
 Web tool to visualize and analyze dependencies in Kotlin Knit projects with interactive exploration and issue highlighting.
 
 **Stack:** Kotlin, Web  
 **Repo:** [github.com/HM33-Alt/knit-VAR](https://github.com/HM33-Alt/knit-VAR)
 
-### AWS Game Builder Challenge — Shape Cast
+### AWS Game Builder Challenge — Shape Cast (Not Maintained)
 Browser-based game using AWS Amplify and Amazon Q Developer.
 
 **Stack:** AWS Amplify, Amazon Q Developer  
 **Repo:** [github.com/HM33-Alt/shape-cast](https://github.com/HM33-Alt/shape-cast)
 
-### PSA Code Sprint 2024 — Mari Mind
+### PSA Code Sprint 2024 — Mari Mind (Not Maintained)
 AI-powered knowledge portal for Marine Port incident reporting.
 
 - Frontend: HTML/CSS/JS with dynamic JSON rendering.
