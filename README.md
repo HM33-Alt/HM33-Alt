@@ -7,8 +7,8 @@ Building systems and the docs that make them usable.
 ### CareerSync — CLI Internship Tracker
 Java 11, JavaFX, Gradle | [Repo](https://github.com/AY2324S2-CS2103T-W11-1/tp)
 
-- Co-authored [User Guide](https://ay2324s2-cs2103t-w11-1.github.io/tp/UserGuide.html)
-- Co-authored [Developer Guide](https://ay2324s2-cs2103t-w11-1.github.io/tp/DeveloperGuide.html) with UML diagrams, step-by-step tutorials,
+- Co-authored [User Guide - Click to Download](https://github.com/HM33-Alt/teaching-writing-portfolio/releases/download/v1.0/CareerSync.Developer.Guide.pdf)
+- Co-authored [Developer Guide - Click to Download](https://github.com/HM33-Alt/teaching-writing-portfolio/releases/download/v1.0/CareerSync.Developer.Guide.pdf) with UML diagrams, step-by-step tutorials,
   and API specifications
 - Designed modular architecture (parser, logic, storage) in an Agile team
 - Managed CI/CD pipeline with Gradle and Git workflow
