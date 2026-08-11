@@ -20,7 +20,7 @@ Python, Bowtie2, SAMtools, WEKA, IQ-TREE | [Repo](https://github.com/HM33-Alt/cp
 Independent projects exploring sequence analysis, variant calling, and phylogenetic inference:
 
 - **Variant Calling Pipeline** — Short-read alignment (Bowtie2), BAM processing, coverage QC, SNP/indel visualization
-- **Codon-Aware Aligner** — Needleman-Wunsch with third-base wobble scoring for coding DNA
+- **Codon-Aware Aligner** — Dynamic programming global aligner with codon-position-aware scoring with third-base wobble scoring for coding DNA
 - **TIS Feature Engineering** — In-frame k-mer extraction for translation initiation site classification; decision tree vs. SVM comparison with chi-square feature selection
 - **Phylogenetic Analysis** — Maximum likelihood tree inference (IQ-TREE) for *Pseudomonas putida* group with bootstrap support evaluation
 - **Critical ML Evaluation** — Assessing classifier performance on imbalanced genomic datasets (rare epigenetic marks)
