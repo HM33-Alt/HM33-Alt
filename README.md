@@ -1,6 +1,7 @@
 ## Hariprasath S/O R Mohan
 NUS Computer Science (Dec 2026) | IMDA SG:D Undergraduate Scholar
-Focus Area: Artificial Intelligence
+
+**Focus Area**: Artificial Intelligence
 
 ## Featured Project
 ### CareerSync — CLI Internship Tracker
