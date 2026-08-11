@@ -14,8 +14,6 @@ Java 11, JavaFX, Gradle | [Repo](https://github.com/AY2324S2-CS2103T-W11-1/tp)
 - Designed modular architecture (parser, logic, storage) in an Agile team setting
 - Managed CI/CD pipeline with Gradle and Git workflow
 
-## Computational Biology Portfolio
-
 ## Competitions & Hackathons
 
 | Competition | Project | Stack | Year |
@@ -26,7 +24,7 @@ Java 11, JavaFX, Gradle | [Repo](https://github.com/AY2324S2-CS2103T-W11-1/tp)
 | EY Open Data Science Challenge | Rice crop classification from satellite imagery | Python, NumPy | 2023 |
 | Agoda Codegoda | Data structures & algorithms | Java | 2023 |
 
-## Capture-The-Flag (OffSec)
+## Capture-The-Flags
 CSIT TISC (2023, 2024, 2026) · HTX CTF (2026) · GovTech AI CTF (2024) · NUS Bug Bounty (2023, 2024)
 
 ---
