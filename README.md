@@ -1,8 +1,6 @@
 ## Hariprasath S/O R Mohan
 NUS Computer Science (Dec 2026) | AI Specialization | IMDA Scholar
 
-Building systems and the docs that make them usable.
-
 ## Featured Project
 ### CareerSync — CLI Internship Tracker
 Java 11, JavaFX, Gradle | [Repo](https://github.com/AY2324S2-CS2103T-W11-1/tp)
