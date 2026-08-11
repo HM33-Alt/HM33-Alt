@@ -14,7 +14,7 @@ Java 11, JavaFX, Gradle | [Repo](https://github.com/AY2324S2-CS2103T-W11-1/tp)
 - Managed CI/CD pipeline with Gradle and Git workflow
 
 ## Computational Biology Portfolio
-Python, Bowtie2, SAMtools, WEKA, IQ-TREE | [Repo](https://github.com/HM33-Alt/computational-biology-portfolio)
+Python, Bowtie2, SAMtools, WEKA, IQ-TREE | [Repo](https://github.com/HM33-Alt/cpb-portfolio)
 
 Independent projects exploring sequence analysis, variant calling, and phylogenetic inference:
 
