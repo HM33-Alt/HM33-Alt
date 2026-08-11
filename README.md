@@ -1,14 +1,16 @@
 ## Hariprasath S/O R Mohan
-NUS Computer Science (Dec 2026) | AI Specialization | IMDA Scholar
+NUS Computer Science (Dec 2026) | IMDA SG:D Undergraduate Scholar
+Focus Area: Artificial Intelligence
 
 ## Featured Project
 ### CareerSync — CLI Internship Tracker
 Java 11, JavaFX, Gradle | [Repo](https://github.com/AY2324S2-CS2103T-W11-1/tp)
+> Please look out for HM33-Stu to see my contributions
 
 - Co-authored [User Guide - Click to Download](https://github.com/HM33-Alt/teaching-writing-portfolio/releases/download/v1.0/CareerSync.Developer.Guide.pdf)
 - Co-authored [Developer Guide - Click to Download](https://github.com/HM33-Alt/teaching-writing-portfolio/releases/download/v1.0/CareerSync.Developer.Guide.pdf) with UML diagrams, step-by-step tutorials,
   and API specifications
-- Designed modular architecture (parser, logic, storage) in an Agile team
+- Designed modular architecture (parser, logic, storage) in an Agile team setting
 - Managed CI/CD pipeline with Gradle and Git workflow
 
 ## Competitions & Hackathons
@@ -21,6 +23,7 @@ Java 11, JavaFX, Gradle | [Repo](https://github.com/AY2324S2-CS2103T-W11-1/tp)
 | EY Open Data Science Challenge | Rice crop classification from satellite imagery | Python, NumPy | 2023 |
 | Agoda Codegoda | Data structures & algorithms | Java | 2023 |
 
-**CTFs:** CSIT TISC (2023, 2024, 2026) · HTX CTF (2026) · GovTech AI CTF (2024) · NUS Bug Bounty (2023, 2024)
+## Capture-The-Flag (OffSec)
+CSIT TISC (2023, 2024, 2026) · HTX CTF (2026) · GovTech AI CTF (2024) · NUS Bug Bounty (2023, 2024)
 
 ---
