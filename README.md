@@ -15,16 +15,7 @@ Java 11, JavaFX, Gradle | [Repo](https://github.com/AY2324S2-CS2103T-W11-1/tp)
 - Managed CI/CD pipeline with Gradle and Git workflow
 
 ## Computational Biology Portfolio
-Python, Bowtie2, SAMtools, WEKA, IQ-TREE | [Repo](https://github.com/HM33-Alt/cpb-portfolio)
 
-Independent projects exploring sequence analysis, variant calling, and phylogenetic inference:
-
-- **Variant Calling Pipeline** — Short-read alignment (Bowtie2), BAM processing, coverage QC, SNP/indel visualization
-- **Codon-Aware Aligner** — Dynamic programming global aligner with codon-position-aware scoring with third-base wobble scoring for coding DNA
-- **TIS Feature Engineering** — In-frame k-mer extraction for translation initiation site classification; decision tree vs. SVM comparison with chi-square feature selection
-- **Phylogenetic Analysis** — Maximum likelihood tree inference (IQ-TREE) for *Pseudomonas putida* group with bootstrap support evaluation
-- **Critical ML Evaluation** — Assessing classifier performance on imbalanced genomic datasets (rare epigenetic marks)
-  
 ## Competitions & Hackathons
 
 | Competition | Project | Stack | Year |
